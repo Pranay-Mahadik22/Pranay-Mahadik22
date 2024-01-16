@@ -1,4 +1,4 @@
- ![masterhead]"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nuvias.com%2Fvendors%2Fgithub%2F&psig=AOvVaw2jDfvR3InFtXlpj34xv3Lw&ust=1705410969372000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJCNhq6934MDFQAAAAAdAAAAABAD">
+
 <h1 align="center">Hi 👋, I'm Pranay Mahadik</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width"400" src="https://i.pinimg.com/736x/11/eb/c1/11ebc17d29ee2f78d16142a0b3f59ea8.jpg">
